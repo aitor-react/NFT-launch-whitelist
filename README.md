@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Contract deployment on Goerli can be found [HERE](https://goerli.etherscan.io/address/0xf921a33e48647b731dabcf4edb6546290fd76266)
 
 ## Getting Started
 
