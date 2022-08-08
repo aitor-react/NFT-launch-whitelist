@@ -1,4 +1,4 @@
-The project's frontend code can be found [HERE](https://github.com/aitor-react/NFT-collection-whitelist/blob/main/pages/index.js)
+Contract deployment on Goerli can be found [HERE](https://goerli.etherscan.io/address/0xf921a33e48647b731dabcf4edb6546290fd76266)
 
 ## Getting Started
 
