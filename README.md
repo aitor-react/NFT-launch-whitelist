@@ -8,7 +8,7 @@ Contract deployment on Goerli can be found [HERE](https://goerli.etherscan.io/ad
 
 ## Interact with the contract
 
-- Open [the site](https://goerli.etherscan.io/address/0xf921a33e48647b731dabcf4edb6546290fd76266) with your browser.
+- Open [the site](https://nft-collection-whitelist.vercel.app/) with your browser.
 - Connect your wallet
 - Approve the contract
 - Join the waitlist by confirming the transaction
